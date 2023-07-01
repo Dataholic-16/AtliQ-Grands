@@ -35,7 +35,7 @@ Total Cancelled Bookings
 
 Cancellation Rate
 
-**Dataset** 📀
+**Dataset**📀
 
 This file contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
 
@@ -49,13 +49,15 @@ fact_aggregated_bookings
 
 fact_bookings
 
-**Technology** �
+**Technology**�
 
 Business Intelligence
 
 **Domain**🛒
+
 Hospitality
 
-**Tools** 🛠
+**Tools**🛠
+
 Microsoft Power BI
 
