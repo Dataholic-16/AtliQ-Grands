@@ -20,13 +20,21 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 **Create metrics**
 
 Total Bookings
+
 Revenue
+
 Average Rating
+
 Total Capacity
+
 Total Successful bookings
+
 Occupancy %
+
 Total Cancelled Bookings
+
 Cancellation Rate
+
 Dataset 📀
 
 This file contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
