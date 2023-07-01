@@ -57,5 +57,5 @@ Business Intelligence
 Hospitality
 
 **Tools** 🛠
-Microsoft Software Power BI
+Microsoft Power BI
 
