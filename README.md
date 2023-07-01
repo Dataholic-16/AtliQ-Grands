@@ -40,11 +40,17 @@ Dataset 📀
 This file contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
 
 dim_date
+
 dim_hotels
+
 dim_rooms
+
 fact_aggregated_bookings
+
 fact_bookings
+
 Technology �
+
 Business Intelligence
 
 **Domain**🛒
