@@ -61,3 +61,8 @@ Hospitality
 
 Microsoft Power BI
 
+**Dashboard Glimpse**
+
+![image](https://github.com/Dataholic-16/AtliQ-Grands/assets/135443003/f88c4311-3214-4628-9b68-fc8119cda150)
+
+
